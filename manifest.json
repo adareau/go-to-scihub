@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Sci-Hub Now!",
-  "short_name": "sci-hub-now",
-  "version": "0.0.2",
+  "name": "Go to Sci-hub",
+  "short_name": "got-to-scihub",
+  "version": "0.1",
   "author": "Orçun Özdemir and Alexandre Dareau",
   "homepage_url": "https://github.com/adareau/sci-hub-now",
-  "description": "Free access to academic papers with just a single click! Abolish publishers, long live the open access movement!",
+  "description": "Opens the current paper in sci-hub",
   "icons": {
     "48": "icons/48x48.png",
     "96": "icons/96x96.png"
@@ -16,7 +16,7 @@
       "48": "icons/48x48.png",
       "96": "icons/96x96.png"
     },
-    "default_title": "Sci-Hub Now!",
+    "default_title": "Go to Sci-hub",
     "theme_icons": [
       {
         "light": "icons/48x48_white.png",
