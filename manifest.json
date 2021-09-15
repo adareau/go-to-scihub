@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Go to Sci-hub",
   "short_name": "got-to-scihub",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Orçun Özdemir and Alexandre Dareau",
   "homepage_url": "https://github.com/adareau/sci-hub-now",
   "description": "Opens the current paper in sci-hub",
